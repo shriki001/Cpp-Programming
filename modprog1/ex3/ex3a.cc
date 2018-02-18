@@ -1,7 +1,7 @@
 /*ex3a: a program that calculate the average and counting how many numbers are
  * positive and negative
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program calculate the average and counting how many numbers are
  * positive and negative
