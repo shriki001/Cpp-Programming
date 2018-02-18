@@ -1,6 +1,6 @@
 /*ex2b: a program that point to the next even/odd node in the linked list
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program point to the next even/odd node in the linked list
  *
