@@ -1,6 +1,6 @@
 /*ex4b: a program that finding the most common values in an array
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program  finding the most common values in an array
  *
