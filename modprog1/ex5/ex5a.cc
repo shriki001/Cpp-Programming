@@ -1,6 +1,6 @@
 /*ex5a: a program that found the max sum value rows and cols in an array
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program found the sum of max rows and max cols int an array and print
  * the location of the max rows and the max cols
