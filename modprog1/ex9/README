@@ -3,7 +3,7 @@ modprog1, 2017a
 File:ex9a.cc
 a program that fill and check sudoku board
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program ask the user to fill any numbers to sudoku board and according
 to that fill the next number correctly until the board full
