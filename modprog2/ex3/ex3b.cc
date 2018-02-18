@@ -1,6 +1,6 @@
 /*ex3b: a program that find the shallow leaf in BST
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program find the shallow leaf in BST
  *
