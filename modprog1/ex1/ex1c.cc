@@ -2,7 +2,7 @@
  * circle triangle and the radius, area and the perimeter of a
  * circumscribed circle triangle
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program calculate the radius, area and the perimeter of a block circle
  * triangle and the radius area and the perimeter of a circumscribed
