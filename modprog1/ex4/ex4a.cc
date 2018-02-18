@@ -1,7 +1,7 @@
 /*ex4a: a program that calculate the average and the
  * variance of values in an array
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program calculate the average and the variance of values in an array
  *
