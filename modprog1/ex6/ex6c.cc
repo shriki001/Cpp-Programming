@@ -1,7 +1,7 @@
 /*ex6c: a program that get a 9*9 board from the user and check
  * if this is a sudoku
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get 9*9 board from the user and check if the
  * board is a sudoku board
