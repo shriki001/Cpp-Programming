@@ -2,7 +2,7 @@
  * 		part two: a program that found the row that contain all of the rows
  * 		by the definition
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * part one: the program found the row that contain all of the rows
  * part two: the program found the row that contain all of the rows by the show
