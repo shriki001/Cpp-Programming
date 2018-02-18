@@ -1,7 +1,7 @@
 /*ex3a: a program that find and  print the minimum value of the BST
  * and print the values of all the leaf of the tree via inorder print
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program find and  print the minimum value of the BST
  * and print the values of all the leaf of the tree via inorder print
