@@ -1,6 +1,6 @@
 /*ex1c: a program that do 9 little program
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get input file and do 9 things:
  * 1) all line to array
