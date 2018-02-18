@@ -1,6 +1,6 @@
 /*ex3b: a program that finding the Greatest Common Divisor (GCD) of tow numbers
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program finding the GCD of tow numbers via Euclid's algorithm
  *
