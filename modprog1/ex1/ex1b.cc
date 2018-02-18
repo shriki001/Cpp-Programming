@@ -1,6 +1,6 @@
 /*ex1b: a program that calculate area and perimeter of a triangle
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program calculate area and perimeter of a triangle
  *
