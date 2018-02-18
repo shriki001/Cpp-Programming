@@ -1,6 +1,6 @@
 /*ex1a: a program that find the average
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program find the average from a dynamic array
  *
