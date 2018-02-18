@@ -3,7 +3,7 @@
  * part 2: print the first array after we remove the value that common
  * with the second array
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * part 1: print copy of the first array with only alphabet and upper case
  * part 2: print the first array after we remove the value that common
