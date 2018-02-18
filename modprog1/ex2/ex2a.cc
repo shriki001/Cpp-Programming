@@ -1,7 +1,7 @@
 /*ex2a: a program that printing how much numbers are even , odd, positive ,
  * negative or zero's.
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program getting 4 numbers and printing how much numbers are even , odd,
  * positive , negative or zero's
