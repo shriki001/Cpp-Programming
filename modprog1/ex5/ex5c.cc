@@ -1,6 +1,6 @@
 /*ex5c: a program that check how many slants are bigger the the previous corner
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program check if the next slants bigger then the previous corner
  *
