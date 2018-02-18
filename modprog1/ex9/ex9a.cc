@@ -1,6 +1,6 @@
 /*ex9a: a program that fill and check sudoku board
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program ask the user to fill any numbers to sudoku board and according
  * to that fill the next number correctly until the board full
