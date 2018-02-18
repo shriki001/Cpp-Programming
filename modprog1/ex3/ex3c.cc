@@ -1,7 +1,7 @@
 /*ex3c: a program that ask from the user to guess a number from the random
  * numbers that the computer come up with
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get form the user the max range of the random numbers from 0,
  * the program ask the user to guess the random number that the computer
