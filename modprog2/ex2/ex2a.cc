@@ -1,6 +1,6 @@
 /*ex2a: a program that remove even node from linked list
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program remove even node from linked list
  *
