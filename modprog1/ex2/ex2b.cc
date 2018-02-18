@@ -2,7 +2,7 @@
  * that can be achieved when a single multiplication operations and a single
  * connection on three numbers in any order
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * a Program reads from the user 3 numbers, and finds the maximum value
  * that can be achieved when a single multiplication operations and a single
