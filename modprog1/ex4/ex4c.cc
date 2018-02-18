@@ -1,6 +1,6 @@
 /*ex4c: a program that finding a loop in an array and print the loop
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program finding a loop in an array and print the loop
  *
