@@ -1,6 +1,6 @@
 /*ex0b: a program that remove documentation note from program code
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get a program code and remove documentation note
  * from the program
