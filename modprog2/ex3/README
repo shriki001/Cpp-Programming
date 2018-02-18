@@ -1,0 +1,56 @@
+modprog2, 2017b
+
+File:ex3a.cc
+a program that find and  print the minimum value of the BST
+and print the values of all the leaf of the tree via inorder print
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program find and  print the minimum value of the BST
+and print the values of all the leaf of the tree via inorder print
+
+Compile: g++ -Wall ex3a.cc –oex3a
+Run: ex3a
+Input: 	number for BST;
+      
+Output: the program print the minimum value and the leafs via inorder print
+
+RunTime: n , when n is the size of the BST
+
+===============================================================================
+
+File:ex3b.cc
+a program that find the shallow leaf in BST
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program that find the shallow leaf in BST
+
+Compile: g++ -Wall ex3b.cc –oex3b
+Run: ex3b
+Input: 	number for BST;
+          
+Output: the program print the most shallow leaf in the BST
+
+RunTime: log(n^2) , when n is the size of the BST
+	
+===============================================================================
+
+File:ex3c.cc
+a program that build BST and visit the BST in inorder method
+and build linked list from the current leaf of the BST
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program build BST and visit the BST in inorder method
+and build linked list from the current leaf of the BST
+
+Compile: g++ -Wall ex3c.cc –oex3c
+Run: ex3c
+Input: 	number for BST;
+        
+Output: the program print the linked list
+
+RunTime: n , when n is the size of the BST
+	   
+===============================================================================

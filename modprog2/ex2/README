@@ -1,0 +1,49 @@
+modprog2, 2017b
+
+File:ex2a.cc
+a program that remove even node from linked list
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program remove even node from linked list
+
+Compile: g++ -Wall ex2a.cc –oex2a
+Run: ex2a
+Input: 	number for liked list;
+      
+Output: the program print the list without the even numbers
+
+===============================================================================
+
+File:ex2b.cc
+a program that point to the next even/odd node in the linked list
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program point to the next even/odd node in the linked list
+
+Compile: g++ -Wall ex2b.cc –oex2b
+Run: ex2b
+Input: 	number for liked list;
+          
+Output: the program print the node value and the next even/odd of him
+	
+===============================================================================
+
+File:ex2c.cc
+a program that build data base
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program build data base according to the following definition:
+Node2 - get only prime numbers
+Node - is the next node of Node2 the get the numbers the divided
+by the Node2 prime
+
+Compile: g++ -Wall ex2c.cc –oex2c
+Run: ex2c
+Input: 	number for liked list;
+        
+Output: the program print data base according to the definition
+	   
+===============================================================================

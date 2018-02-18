@@ -1,0 +1,57 @@
+modprog1, 2017a
+
+File:ex1a.cc
+Printing the difference of 3 numbers
+===============================================================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+This program calculate the difference between 3 numbers and print the results
+
+Compile: g++ -Wall ex1a.cc –oex1a
+Run: ex1a
+Input: 	3 numbers as you wish;
+            e.g. 5 3 7.
+
+Output: the difference between them.
+	    e.g. 0 2 -2
+		 -2 0 -4
+		 2 4 0
+
+===============================================================================
+
+File:ex1b.cc
+Calculate area and perimeter of a triangle
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+This program calculate area of triangle
+
+Compile: g++ -Wall ex1b.cc –oex1b
+Run: ex1b
+Input: 	The three sides of a triangle;
+            e.g. 5 3 7 for the traingle: A = 5, B = 3, C = 7.
+
+Output: The area and perimeter of the traingle.
+
+===============================================================================
+
+File:ex1c.cc
+Calculate the radius, area and the perimeter of 2 type of circles
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program calculate the radius, area and the perimeter of a block circle 
+triangle and the radius area and the perimeter of 
+a circumscribed circle triangle
+
+Compile: g++ -Wall ex1c.cc –oex1c
+Run: ex1c
+Input: 	4 numbers that simulated 2 coordinates;
+            e.g. 1 3 5 1. --> [1,3],[5,1].
+
+Output: block circle triangle - radius,area,perimeter.
+	circumscribed circle triangle - radius,area,perimeter.
+	    e.g. 1 3.1415 6.283
+		2.23607 15.7075 14.0492
+
+===============================================================================

@@ -1,0 +1,51 @@
+modprog1, 2017a
+
+File:ex7a.cc
+a program that have tow parts:
+part 1: print copy of the first array with only alphabet and upper case
+part 2: print the first array after we remove the value that common
+with the second array
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+part 1: print copy of the first array with only alphabet and upper case
+part 2: print the first array after we remove the value that common
+with the second array
+
+Compile: g++ -Wall ex7a.cc –oex7a
+Run: ex7a
+Input: 	2 strings to  2 arrays;
+            e.g. abcabc
+		 a
+
+Output: (1) copy of the first array
+	(2) the first array after we remove the value that common
+ 	    with the second array
+
+	    e.g. ABCABC
+		 bcbc 
+
+Run Time: n*m when n is the size of array A and m is the size of array B
+
+===============================================================================
+
+File:ex7c.cc
+a program that find the max sequence in array
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program find the max sequence of one array in another
+
+Compile: g++ -Wall ex7c.cc –oex7c
+Run: ex7c
+Input: 	2 strings to  2 arrays;
+            e.g. abcabcefrt
+		 abce
+
+
+Output: the program print the max sequence between tow arrays
+	    e.g. a
+
+Run Time: n*m when n is the size of array A and m is the size of array B
+
+===============================================================================

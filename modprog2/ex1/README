@@ -1,0 +1,55 @@
+modprog1, 2017b
+
+File:ex1a.cc
+a program that find the average
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program find the average from a dynamic array
+
+Compile: g++ -Wall ex1a.cc –oex1a
+Run: ex1a
+Input: 	array size;
+      
+Output: the average of the array
+
+===============================================================================
+
+File:ex1b.cc
+a program that get input form 2 files and merge them
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get input form 2 files and merge the array
+
+Compile: g++ -Wall ex1b.cc –oex1b
+Run: ex1b
+Input: 	2 files of numbers;
+          
+Output: the program print the sum of the values
+	
+===============================================================================
+
+File:ex1c.cc
+a program that do 9 little program
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get input file and do 9 things:
+ 1) all line to array
+ 2) delete line from array
+ 3) join line to another
+ 4) split line to another
+ 5) add value to row in the array
+ 6) delete value from row in the array
+ 7) print the array
+ 8) pure the array
+ 9) Exit program
+
+Compile: g++ -Wall ex1c.cc –oex1c
+Run: ex1c
+Input: 	as the user wont to do;
+        
+Output: the program does operation according to the user input
+	   
+===============================================================================

@@ -1,0 +1,61 @@
+modprog1, 2017a
+
+File:ex2a.cc
+printing how much numbers are even , odd, positive , negative or zero's
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program getting 4 numbers and printing how much numbers are even , odd,
+positive , negative or zero's
+
+Compile: g++ -Wall ex2a.cc –oex2a
+Run: ex2a
+Input: 	4 numbers as you wish;
+            e.g. -2 0 5 3.
+
+Output: how much numbers are even , odd,
+positive , negative or zero's
+	    e.g. 2 2
+		 2 1 1
+
+===============================================================================
+
+File:ex2b.cc
+a program that finds the maximum value
+that can be achieved when a single multiplication operations and a single
+connection on three numbers in any order
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+this program reads from the user 3 numbers, and finds the maximum value
+that can be achieved when a single multiplication operations and a single
+connection on three numbers in any order
+
+Compile: g++ -Wall ex2b.cc –oex2b
+Run: ex2b
+Input: 	3 numbers as tou wish;
+            e.g. 5 3 7.
+
+Output: The area and perimeter of the traingle.
+	e.g. (5+3)*7=56
+
+
+===============================================================================
+
+File:ex2c.cc
+a program that printing correct date
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program getting 3 numbers as day , month and year
+check if the numbers are veiled for a correct date and printing the date
+
+Compile: g++ -Wall ex2c.cc –oex2c
+Run: ex2c
+Input: 	3 numbers that simulated day month and year;
+            e.g. 27 11 2016
+
+Output: if the date is correct the program print the veiled date 
+	    e.g. 27th November 2016
+
+===============================================================================

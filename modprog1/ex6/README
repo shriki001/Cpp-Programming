@@ -1,0 +1,81 @@
+modprog1, 2017a
+
+File:ex6a.cc
+a program that found the max sum value rows and cols in an array
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program found the sum of max rows and max cols int an array and print
+the location of the max rows and the max cols
+
+Compile: g++ -Wall ex6a.cc –oex6a
+Run: ex6a
+Input: 	2nd array;
+            e.g. 9 30 42 11 21
+		34 22 13 21 11
+		8 7 5 3 2  
+		2 2 3 -9 1.
+
+Output: the max rows and max cols of the array
+	    e.g. 0 2 
+
+Run Time: n^2 when we have a square matrix
+
+===============================================================================
+
+File:ex6b.cc
+part one: a program that found the row that contain all of the rows
+part two: a program that found the row that contain all of the rows
+by the definition
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+part one: the program found the row that contain all of the rows
+part two: the program found the row that contain all of the rows by the show
+of the value in the other row
+
+Compile: g++ -Wall ex6b.cc –oex6b
+Run: ex6b
+Input: 	2nd array;
+            e.g. 1 1 4 5 17
+		 3 3 1 1 5
+		 1 3 4 5 17
+		 1 4 5 3 17.
+
+Output: the number of the rows that contain all the rows.
+	e.g. 2
+	     -1
+
+Run Time: n^5 when we have a square matrix
+
+===============================================================================
+
+File:ex6c.cc
+a program that get a 9*9 board from the user and check
+if this is a sudoku
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get 9*9 board from the user and check if the
+board is a sudoku board
+
+Compile: g++ -Wall ex6c.cc –oex6c
+Run: ex6c
+Input: 	2nd array 9*9 size;
+            e.g. 9 8 5 2 4 3 1 6 7
+		 3 2 8 7 8 1 9 5 4
+		 7 4 1 9 1 5 3 8 2
+		 4 5 2 8 7 9 6 3 1
+		 1 9 3 6 5 4 1 7 8
+		 6 7 8 1 3 2 5 4 9
+		 5 3 9 4 1 7 8 2 6
+		 8 1 7 5 2 6 4 5 3
+		 2 6 4 3 9 8 7 1 5.
+
+
+Output: the program print 1 if the board is sudoku and 0 if not
+	    e.g. 0
+
+Run Time: n^4 when we have a square matrix
+
+===============================================================================

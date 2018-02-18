@@ -1,0 +1,79 @@
+modprog1, 2017a
+
+File:ex8a.cc
+a program that have 13 parts and the user need to choose between 13
+option what he/she want to do
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the user need to:
+part 1: put value to array
+part 2: search value as he want
+part 3: sorting the array in order small to big
+part 4: search value as he want only if the array sorted in order small
+to big via binary search algorithm
+part 5: count how many times value show in the array
+part 6: print the array from the beginning to the last
+part 7: print the array from the last to the beginning
+part 8: check if the array sort in up order
+part 9: check if the array is palindrom
+part 10: check how many values are the sum of the last tow
+part 11: copy to another array the values are show one time in
+the current array
+part 12: check what value is prime number and print it
+part 13: EXIT the program.
+
+Compile: g++ -Wall ex8a.cc –oex8a
+Run: ex8a
+Input: 	array and user choices;
+            e.g. 1
+		 23 4 62 0 -4 2 -67 7 1 0
+		 3
+		 4
+		 0
+		 4
+		 62
+		 4
+		 23
+		 4
+		 -67
+		 6
+		 7
+		 8
+		 10
+		 11
+		 12
+		 13
+
+Output: 
+
+	    e.g. 1
+		 1
+		 1
+		 1
+		 -67 -4 0 0 1 2 4 7 23 62 
+		 62 23 7 4 2 1 0 0 -4 -67 
+		 1
+		 0
+		 -67 -4 1 2 4 7 23 62 
+		 2 7 23 
+
+Run Time for all: n^2, when n is the max size of the array
+
+run time for one function any time:
+part 1: n , when n is the max size of the array
+part 2: n , when n is the max size of the array
+part 3: n^2 , when n is the max size of the array
+part 4: log n , when n is the max size of the array
+part 5: n , when n is the max size of the array
+part 6: 1
+part 7: 1
+part 8: n , when n is the max size of the array
+part 9: 1
+part 10: n , when n is the max size of the array
+part 11: n , when n is the max size of the array
+part 12: n*m , when n is the max size of the array
+	 and m is the number to check if he prime
+
+
+===============================================================================

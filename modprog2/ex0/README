@@ -1,0 +1,65 @@
+modprog2, 2017b
+
+File:ex0a.cc
+a program that get input file and do 3 things:
+1) if there are strings with alphabet only its print 'a'
+2) if there are strings with digit only its print '0'
+3) if there are strings with anything else its print 'x'
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get input file and do 3 things:
+1) if there are strings with alphabet only its print 'a'
+2) if there are strings with digit only its print '0'
+3) if there are strings with anything else its print 'x'
+
+Compile: g++ -Wall ex0a.cc –oex0a
+Run: ex0a
+Input: 	the program print according to the file characters 'a' or '0' or 'x'
+ and how many strings are alphabet ,digits or others;
+
+            e.g. dddddd 3212 reqq evfed 9586 ew 4
+		 3212 fredc fre#$%f4 45345t cdewer
+		 2 3 fre ^$@$%^fre bhte
+
+Output: the program print according to the file characters 'a' or '0' or 'x'
+and how many strings are alphabet ,digits or others.
+e.g.
+to the standart output we get 
+			4 3 0
+			2 1 2
+			2 2 1
+to the output file we get
+		 aaaaaa 0000 aaaa aaaaa 0000 aa 0
+		 0000 aaaaa xxxxxxxx xxxxxx aaaaaa
+		 0 0 aaa xxxxxxxxx aaaa
+
+===============================================================================
+
+File:ex0b.cc
+a program that remove documentation note from program code
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get a program code and remove documentation note
+from the program
+Compile: g++ -Wall ex0b.cc –oex0b
+Run: ex0b
+Input: 	program in C;
+            e.g. aaaaa drefdewcw
+		 nnnnnnn//ggggggggg/*
+		 /*
+		 fffffffff
+		 */rrrrrrr /* yyyyyyy   /*trervtv//*/uuuuu*/
+		 ttttttt*/ 7777777*/
+		 mmmmmmmmm...
+		 bbbbbbbb
+
+Output: the program print the program without the documentation note
+	    e.g. aaaaa drefdewcw
+		 nnnnnnnrrrrrrr 
+		 mmmmmmmmm...
+		 bbbbbbbbd
+
+===============================================================================
+

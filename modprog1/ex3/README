@@ -1,0 +1,74 @@
+modprog1, 2017a
+
+File:ex3a.cc
+calculate the average and counting how many numbers are
+positive and negative
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program calculate the average and counting how many numbers are
+positive and negative
+
+Compile: g++ -Wall ex3a.cc –oex3a
+Run: ex3a
+Input: 	any numbers from the user until the user put 0
+            e.g. 10 20 30 0.
+
+Output: how much operand the user put , what is their
+average , how many was positive and how many negative
+	    e.g. 3 20 3 0.
+
+===============================================================================
+
+File:ex3b.cc
+a program that finding the Greatest Common Divisor (GCD) of tow numbers
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+this program finding the GCD of tow numbers via Euclid's algorithm
+
+Compile: g++ -Wall ex3b.cc –oex3b
+Run: ex3b
+Input: pairs of numbers from the user until the user put 0
+            e.g. 120 63 8 2 0.
+
+Output: the GCD of all the pair numbers.
+	e.g. 3
+	     2
+
+
+===============================================================================
+
+File:ex3c.cc
+a program that ask from the user to guess a number from the random
+numbers that the computer come up with
+=========================================
+Writen by: Michael Shriki, id = 305599417, login = michaelshr
+
+the program get form the user the max range of the random numbers from 0,
+the program ask the user to guess the random number that the computer
+come up with and for every step the program tell the user if his/her guess was
+too big or too small, also the program give to the user info about how many
+steps rational unlucky user would need to get the job down,
+finally the program give to the user his grade.
+after all this the program ask the user if he/she want to start all over
+
+Compile: g++ -Wall ex3c.cc –oex3c
+Run: ex3c
+Input: 	the max range of the random numbers and the user guess 
+and finally 1 to start over or any number to exit
+            e.g. 30 15 7 13 9 11 10 2
+
+Output: the program tell the user every step if the guess id too big or too
+small from the number that the computer come up with, the program print:
+1) user's steps. 2) rational unlucky user steps. 3) the grade
+	    e.g. too big
+		 too small
+		 too big
+		 too small
+		 too big
+		 6 5
+		 83
+		 again? 1:YES 
+
+===============================================================================
