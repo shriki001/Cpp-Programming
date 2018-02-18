@@ -3,7 +3,7 @@
  * 2) if there are strings with digit only its print '0'
  * 3) if there are strings with anything else its print 'x'
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get input file and do 3 things:
  * 1) if there are strings with alphabet only its print 'a'
