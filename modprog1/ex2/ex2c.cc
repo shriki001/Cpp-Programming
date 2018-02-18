@@ -1,6 +1,6 @@
 /*ex2c: a program that printing correct date
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program getting 3 numbers as day , month and year
  * check if the numbers are veiled for a correct date and printing the date
