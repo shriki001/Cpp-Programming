@@ -1,7 +1,7 @@
 /*ex8a: a program that have 13 parts and the user need to choose between 13
  * option what he/she want to do
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  * the user need to:
  * part 1: put value to array
  * part 2: search value as he want
