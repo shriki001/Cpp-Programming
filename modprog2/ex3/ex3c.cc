@@ -1,7 +1,7 @@
 /*ex3c: a program that build BST and visit the BST in inorder method
  * and build linked list from the current leaf of the BST
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program build BST and visit the BST in inorder method
  * and build linked list from the current leaf of the BST
