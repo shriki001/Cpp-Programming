@@ -1,7 +1,7 @@
 /*ex9b: a program that return the minimum steps to get from
  * one number to another
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program check the minimum steps to get from
  * one number to another
