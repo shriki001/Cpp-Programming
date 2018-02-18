@@ -1,6 +1,6 @@
 /*ex1b: a program that get input form 2 files and merge them
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program get input form 2 files and merge the array
  *
