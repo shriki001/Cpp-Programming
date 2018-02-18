@@ -1,6 +1,6 @@
 /*ex2c: a program that build data base
  * ============================================================================
- * written by Michael Shriki, id:305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program build data base according to the following definition:
  * Node2 - get only prime numbers
