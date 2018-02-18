@@ -1,6 +1,6 @@
 /*ex1a: a program that printing the difference between 3 numbers
  * ============================================================================
- * written by Michael Shriki, id=305599417 login:michaelshr
+ * written by Michael Shriki, login:michaelshr
  *
  * the program getting 3 numbers and printing the difference between them
  *
