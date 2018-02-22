@@ -22,7 +22,7 @@ RunTime: n , when n is the size of the BST
 File:ex3b.cc
 a program that find the shallow leaf in BST
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program that find the shallow leaf in BST
 
@@ -40,7 +40,7 @@ File:ex3c.cc
 a program that build BST and visit the BST in inorder method
 and build linked list from the current leaf of the BST
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program build BST and visit the BST in inorder method
 and build linked list from the current leaf of the BST
