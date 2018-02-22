@@ -24,7 +24,7 @@ Run Time: O(n), when n is the number of values in an array
 File:ex4b.cc
 a program that finding the most common values in an array
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 this program finding the most common values in an array
 
@@ -47,7 +47,7 @@ and m is the number of valuse in the  counting array
 File:ex4c.cc
 a program that finding a loop in an array and print the loop
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program finding a loop in an array and print the loop
 
