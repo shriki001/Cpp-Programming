@@ -18,7 +18,7 @@ Output: the average of the array
 File:ex1b.cc
 a program that get input form 2 files and merge them
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program get input form 2 files and merge the array
 
@@ -33,7 +33,7 @@ Output: the program print the sum of the values
 File:ex1c.cc
 a program that do 9 little program
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program get input file and do 9 things:
  1) all line to array
