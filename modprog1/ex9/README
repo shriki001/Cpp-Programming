@@ -27,7 +27,7 @@ Run Time: n^4 when n is the size of rows and columns
 File:ex9b.cc
 a program that return the minimum steps to get from one number to another
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program check the minimum steps to get from one number to another
 Compile: g++ -Wall ex9b.cc –oex9b
