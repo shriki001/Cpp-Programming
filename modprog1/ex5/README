@@ -28,7 +28,7 @@ part one: a program that found the row that contain all of the rows
 part two: a program that found the row that contain all of the rows
 by the definition
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 part one: the program found the row that contain all of the rows
 part two: the program found the row that contain all of the rows by the show
@@ -53,7 +53,7 @@ Run Time: O(n^2) when we have a square matrix
 File:ex5c.cc
 a program that check how many slants are bigger the the previous corner
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program check if the next slants bigger then the previous corner
 
