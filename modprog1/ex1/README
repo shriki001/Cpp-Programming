@@ -22,7 +22,7 @@ Output: the difference between them.
 File:ex1b.cc
 Calculate area and perimeter of a triangle
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 This program calculate area of triangle
 
@@ -38,7 +38,7 @@ Output: The area and perimeter of the traingle.
 File:ex1c.cc
 Calculate the radius, area and the perimeter of 2 type of circles
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program calculate the radius, area and the perimeter of a block circle 
 triangle and the radius area and the perimeter of 
