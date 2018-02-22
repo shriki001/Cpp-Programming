@@ -1,17 +1,3 @@
-/*ex4a: a program that find and  print the minimum value of the BST
- * and print the values of all the leaf of the tree via inorder print
- * ============================================================================
- * written by Michael Shriki, login:michaelshr
- *
- * the program find and  print the minimum value of the BST
- * and print the values of all the leaf of the tree via inorder print
- *
- * Input: number for BST
- * ============================================================================
- * Output: the program print the minimum value and the leafs via inorder print
- * ============================================================================
- */
-
 #include <iostream>
 #include <cstdlib>
 #include "rectangle.h"
