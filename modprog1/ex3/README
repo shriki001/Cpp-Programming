@@ -23,7 +23,7 @@ average , how many was positive and how many negative
 File:ex3b.cc
 a program that finding the Greatest Common Divisor (GCD) of tow numbers
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 this program finding the GCD of tow numbers via Euclid's algorithm
 
@@ -43,7 +43,7 @@ File:ex3c.cc
 a program that ask from the user to guess a number from the random
 numbers that the computer come up with
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program get form the user the max range of the random numbers from 0,
 the program ask the user to guess the random number that the computer
