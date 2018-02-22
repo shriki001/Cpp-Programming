@@ -18,7 +18,7 @@ Output: the program print the list without the even numbers
 File:ex2b.cc
 a program that point to the next even/odd node in the linked list
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program point to the next even/odd node in the linked list
 
@@ -33,7 +33,7 @@ Output: the program print the node value and the next even/odd of him
 File:ex2c.cc
 a program that build data base
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program build data base according to the following definition:
 Node2 - get only prime numbers
