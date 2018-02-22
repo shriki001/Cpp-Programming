@@ -39,7 +39,7 @@ to the output file we get
 File:ex0b.cc
 a program that remove documentation note from program code
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program get a program code and remove documentation note
 from the program
