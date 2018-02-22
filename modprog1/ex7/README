@@ -32,7 +32,7 @@ Run Time: n*m when n is the size of array A and m is the size of array B
 File:ex7c.cc
 a program that find the max sequence in array
 =========================================
-Writen by: Michael Shriki, id = 305599417, login = michaelshr
+Writen by: Michael Shriki, login = michaelshr
 
 the program find the max sequence of one array in another
 
